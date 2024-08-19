@@ -1,0 +1,10 @@
+langchain
+llama_index
+openai
+protobuf
+PyPDF2
+python-dotenv
+python_docx
+Requests
+streamlit
+streamlit_chat
